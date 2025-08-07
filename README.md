@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayankchauhan4
-- 👀 I’m interested in Machine learning and in working in NLP ,Object detection and image classification.
+- 👀 Data Scientist at EXL , working in the field of GEN AI 
 - 📫 you can reach me on 
 996mayank@gmail.com
 - Here is my linked in profile
